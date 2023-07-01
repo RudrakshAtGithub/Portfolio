@@ -4,10 +4,10 @@ This repo Shows you my work done to create by Portfolio website,this is my FIRST
 <br>
 ## About the project:
 
-<h6>Will be applying my knowledge of HTML/CSS/Javascript to built the front end part of this.</h6>
-<h6>If needed,then will use backend stuffs for feedback and all.</h6>
-<h6>Will be trying to build maxium things by myself,from basics,for maximum output.</h6>
-<h6>I am also open for all to contribute to this, if you can,in whichever manner you want.</h6>
+<h6>📌Will be applying my knowledge of HTML/CSS/Javascript to built the front end part of this.</h6>
+<h6>📌If needed,then will use backend stuffs for feedback and all.</h6>
+<h6>📌Will be trying to build maxium things by myself,from basics,for maximum output.</h6>
+<h6>📌I am also open for all to contribute to this, if you can,in whichever manner you want.</h6>
 <br>
 <br>
 
